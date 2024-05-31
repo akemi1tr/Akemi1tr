@@ -33,4 +33,4 @@ Hello, I'm Akemi, a 17-year-old young software enthusiast.<br>Junior Developer<b
 or you can get support via the server link provided below.
 [Join our Discord server for support](https://discord.gg/N47nYaZnbH)
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sgbw53xrcmmrmhows6tzngh5aq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31sgbw53xrcmmrmhows6tzngh5aq&redirect=true)
