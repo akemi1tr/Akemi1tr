@@ -24,13 +24,11 @@ Hello, I'm Akemi, a 17-year-old young software enthusiast.<br>Junior Developer<b
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akemi1tr&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=donut&bg_color=0D1117">
 
 ## 🌐 Discord Profile:
-
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/1091415573990219806?theme=dark&bg=272727)](https://discord.com/users/1091415573990219806)
 
 ## 💫 Support
 
-!You can contact me for support regarding my projects through Discord, 
-or you can get support via the server link provided below.
+!You can contact me for support regarding my projects through Discord, or you can get support via the server link provided below.
 [Join our Discord server for support](https://discord.gg/N47nYaZnbH)
 
 <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=31sgbw53xrcmmrmhows6tzngh5aq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
