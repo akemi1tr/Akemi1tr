@@ -6,7 +6,7 @@ Hello, I'm Akemi, a 17-year-old young software enthusiast.<br>Junior Developer<b
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/N47nYaZnbH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/akemi0734/)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/N47nYaZnbH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yildiray_basaran34/)  
 
 # 💻 Tech Stack:
 <img width="50%" align="center" src="https://skillicons.dev/icons?i=js,ts,html,css,nextjs,nodejs,nestjs,mongodb&perline=7">
