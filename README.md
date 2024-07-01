@@ -5,7 +5,7 @@
 
 
 
-<a href="https://github.com/Jurredr/github-widgetbox">
+<a href="https://akemi.web.tr">
   <p align=center>
     <img src="https://github-widgetbox.vercel.app/api/profile?username=akemi1tr&data=followers,repositories,stars,commits&theme=darkmode" alt="">
   </p>
@@ -17,7 +17,7 @@
   </p>
 </a>
 
-<h3 align="center">Daha fazla Detay İçin [Sitem](https://akemi.web.tr)  </h3>
+<h3 align="center">Daha fazla Detay İçin [[Sitem](https://akemi.web.tr)](https://akemi.web.tr)  </h3>
 <h4 align="center" >Görüntülenme </h4>
 <a href="">
   <p align=center>
