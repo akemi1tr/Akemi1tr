@@ -13,7 +13,7 @@
 
 <a href="https://akemi.web.tr">
   <p align=center>
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,TypeScript,html,css,nodejs,express,discordjs&theme=darkmode" alt="">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,TypeScript,html,css,nodejs,express,reakt&theme=darkmode" alt="">
   </p>
 </a>
 
