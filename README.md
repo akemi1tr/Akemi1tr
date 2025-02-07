@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img style="border-radius: 59px;" width="80%" height="79%" src="https://i.pinimg.com/736x/cf/b6/2c/cfb62cec00f2a2d0c1714dd556a3fb57.jpg" alt="">
+    <img style="border-radius: 59px;" width="80%" height="79%" src="https://i.imgur.com/UaVzFdV.jpeg" alt="">
 </p>
 
 
