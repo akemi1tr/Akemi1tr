@@ -1,4 +1,4 @@
-<img width="100%" height="95%" src="https://imgur.com/a/Tcq6jW7" alt="">
+<img width="100%" height="95%" src="https://i.pinimg.com/736x/0d/93/1e/0d931e0b99063468a939f6127772f973.jpg" alt="">
 
 <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=akemi1tr&data=followers,repositories,stars,commits&theme=darkmode" alt="">
 
