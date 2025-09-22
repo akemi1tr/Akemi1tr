@@ -7,4 +7,4 @@
 ### Daha fazla Detay İçin Sitem
 #### Görüntülenme
 
-<img width="100%" src="https://count.getloli.com/get/@akemi1tr?theme=gelbooru" />
+<img width="100%" src="https://count.getloli.com/get/@akemi1tr?theme=rule34" />
